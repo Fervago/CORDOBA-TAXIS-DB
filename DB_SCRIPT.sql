@@ -464,8 +464,6 @@ BEGIN
 END
 //
 
-select * from registro_vehiculo;
-
 
 -- EJEMPLOS de CONSULTAS
 -- select * from vista_vehiculos;
